@@ -5,7 +5,7 @@
 - Project name: Bitcoin Market Regime Classification & Return Prediction
 - Specialization: DS
 - Project source: Public financial market dataset
-- Original source link: Yahoo Finance - BTC-USD Historical Data
+- Original source link: [Yahoo Finance - BTC-USD Historical Data](https://finance.yahoo.com/quote/BTC-USD/history/)
 - Published project link: https://github.com/laperezortiz/bitcoin-market-regime-classification
 
 ## 2. OBJECTIVE
