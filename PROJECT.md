@@ -87,4 +87,4 @@ Future work could investigate additional market features, alternative regime-det
 - [x] No credentials or sensitive data are included in the repository
 - [x] Original data source link is included and working
 - [x] Project is published and accessible
-- [ ] Project link has been shared with the coach
+- [x] Project link has been shared with the coach
