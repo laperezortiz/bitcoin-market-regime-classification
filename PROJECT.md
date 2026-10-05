@@ -82,9 +82,9 @@ Future work could investigate additional market features, alternative regime-det
 
 ## 8. PRE-PUBLICATION CHECKLIST
 
-- [ ] README explains the project without requiring the reader to inspect all the details
-- [ ] Files are organized, with no stray tests or outdated versions
-- [ ] No credentials or sensitive data are included in the repository
-- [ ] Original data source link is included and working
-- [ ] Project is published and accessible
+- [x ] README explains the project without requiring the reader to inspect all the details
+- [x ] Files are organized, with no stray tests or outdated versions
+- [x ] No credentials or sensitive data are included in the repository
+- [x ] Original data source link is included and working
+- [x ] Project is published and accessible
 - [ ] Project link has been shared with the coach
